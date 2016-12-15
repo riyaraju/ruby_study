@@ -1,0 +1,7 @@
+This is a program to find the factorial of a number by recursive method
+
+Dependecies :
+ Ruby
+
+How to run :
+ ruby recursive_factorial
