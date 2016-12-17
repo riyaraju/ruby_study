@@ -1,10 +1,12 @@
-f=4
-s=1
-if f==0
-puts 1
+factorial = 4
+sum = 1
+
+if factorial == 0
+  puts 1
 else
-for i in 1..f
-s=s*i
-end
-puts s
+  (1..factorial).each do |number|
+    sum = sum * number
+  end
+
+  puts sum
 end
