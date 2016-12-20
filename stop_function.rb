@@ -1,4 +1,4 @@
-x=""
+x = ""
  while x! = "STOP" do
   puts "hi, whats up!!"
 	 ans = gets.chomp
